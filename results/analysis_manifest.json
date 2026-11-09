@@ -1,0 +1,66 @@
+{
+  "study": "Project 12: secondary descriptive analysis of Fairwork Cloudwork Ratings 2023",
+  "run_started_utc": "2026-11-09T21:59:38.928951+00:00",
+  "run_finished_utc": "2026-11-09T21:59:40.364715+00:00",
+  "execution_environment": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.8",
+    "ipython": "9.16.1"
+  },
+  "execution_platform": "local Python",
+  "source": {
+    "title": "Fairwork Cloudwork Ratings 2023: Work in the Planetary Labour Market",
+    "url": "https://fairwork.oii.ox.ac.uk/wp-content/uploads/sites/17/2023/07/Fairwork-Cloudwork-Ratings-2023-Red.pdf",
+    "sha256_of_audited_report": "d1fecc0d7f39cc523f471c49895c6f86572045bc015215a3654437969424316b",
+    "report_pages": 40,
+    "scores_page": 11,
+    "awards_page": 3,
+    "awards_discussion_page": 13,
+    "audit_date_asia_kolkata": "2026-11-10"
+  },
+  "platforms": 15,
+  "principle_4_1_awards": 6,
+  "research_questions": 5,
+  "bands": {
+    "low": "0–2",
+    "middle": "3–5",
+    "high": "6–10"
+  },
+  "limitations": [
+    "All 15 purposively selected platforms in the 2023 report, one year",
+    "Researcher-defined bands, not official Fairwork categories",
+    "Principle 4.1 contributes to the total score",
+    "No worker-level inference, hypothesis test, or causal estimate",
+    "Non-award is not proof that due process is absent",
+    "Empty high band has an undefined within-band award rate"
+  ],
+  "validation": "PASS",
+  "output_files": [
+    "table_1_platform_level_data.csv",
+    "table_2_rq1_score_summary.csv",
+    "table_3_rq2_awards.csv",
+    "table_4_rq3_scores_by_award.csv",
+    "table_5_rq4_score_bands.csv",
+    "table_6_rq5_awards_by_band.csv",
+    "figure_1_rq1_platform_scores.png",
+    "figure_2_rq2_awards.png",
+    "figure_3_rq3_group_means.png",
+    "figure_4_rq4_score_bands.png",
+    "figure_5_rq5_awards_by_band.png"
+  ],
+  "sha256": {
+    "table_1_platform_level_data.csv": "315a15599530d4919bcc052e387f0f135a53d1dd46d372c66432f5e8cc5c87da",
+    "table_2_rq1_score_summary.csv": "2e9e7452fedbce175e7c7839fa2bbf36b44ba0ce4f700f8067681d4b715eea9a",
+    "table_3_rq2_awards.csv": "b1846b49bf793a10cc60591863e67a7921f9dc42f42a0c88bb5c011f0ee40087",
+    "table_4_rq3_scores_by_award.csv": "6de76c45c158d2b65a92d08499efdd5c5ca01dce50f3d6e098672c77319d1b44",
+    "table_5_rq4_score_bands.csv": "48c029ae5968d1b1d3a9ffc0b11a379aa97d28eacd0830693efd60855932143a",
+    "table_6_rq5_awards_by_band.csv": "ae4ff8081ba540727cb44e966891bad61c2b3b9af3b96fa8e0aa2bcc4cdd28da",
+    "figure_1_rq1_platform_scores.png": "0b2f1f19aa3be5bb4b94e3732b7859ed1ee2ac41330fe6476eb3956ea7bfd02b",
+    "figure_2_rq2_awards.png": "e3f31e12b7a6b89be66c4369113fea0bb8a7fb72c785e08b64f85f9394014d11",
+    "figure_3_rq3_group_means.png": "4c072aff01293d8a0e606374d75ed8cf1f571641bc3cdba081609f40bfa95256",
+    "figure_4_rq4_score_bands.png": "f9c2ba022389dc99b29d0621c3b021764c10aedd5f842f405667a7045398043e",
+    "figure_5_rq5_awards_by_band.png": "4c707035ee2e09ef47031fc7ce271e5fe4a2c3a4f44f7d2b707f3db1e7fc3ac4"
+  }
+}
