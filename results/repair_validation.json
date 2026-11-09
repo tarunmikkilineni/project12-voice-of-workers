@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "run_finished_utc": "2026-11-09T21:59:41.273172+00:00",
+  "design": "post hoc descriptive sensitivity analysis of the supplied 2023 dataset",
+  "source_data_sha256": "315a15599530d4919bcc052e387f0f135a53d1dd46d372c66432f5e8cc5c87da",
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.8",
+    "ipython": "9.16.1"
+  },
+  "original_gap": 1.1666666666666667,
+  "component_excluded_gap": 0.16666666666666674,
+  "direct_component_share_percent": 85.71428571428571,
+  "leave_one_out_min": -0.33333333333333326,
+  "leave_one_out_max": 0.625,
+  "leave_one_out_negative_gaps": 2,
+  "cautions": [
+    "Removing arithmetic overlap does not establish statistical independence or causality.",
+    "Original score-band analysis remains descriptive and component-dependent.",
+    "No new data, preregistration, full source re-audit, or Kaggle execution is claimed.",
+    "No statistical equivalence or population inference is established.",
+    "Leave-one-out extrema are not confidence bounds."
+  ],
+  "files_sha256": {
+    "figure_S1_component_exclusion.png": "c14cdc3639d5819933b5f3df6816ad7a66c37b14316890d2e7f71e586a6d0055",
+    "figure_S2_platform_influence.png": "c7cbe6a8a95f9711c0ffbcd76503a0967ad38de53576e8ee1693347247b07507",
+    "table_S1_component_excluded_data.csv": "44b58f5c6dc257ab7a9f49d29f50fced2c284e2c3bdffc85d35134c44b7b404a",
+    "table_S2_adjusted_group_summary.csv": "e4f30ca9a0f91935e3faa4f61e0641655b6a23d002236338732eb1579a003ae1",
+    "table_S3_gap_decomposition.csv": "ec8af049b4916be6c5b1248c817818fa22f63f87e12f92651104d2088a93ef31",
+    "table_S4_leave_one_platform_out.csv": "f4f84846132d6e6a4af57de3d5f91a80bfbe738c9e567d14facd03c2a0dbbaaa"
+  },
+  "journal_approval": "Not granted; editorial decision required"
+}
