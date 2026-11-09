@@ -1,0 +1,15 @@
+PROJECT 12 REQUIRED LINKS
+
+ChatGPT shared-conversation URL:
+
+GitHub repository or release URL containing the complete final ZIP:
+
+Zenodo published-record URL:
+
+Zenodo DOI, if assigned:
+
+Kaggle saved notebook URL, if independently completed there:
+
+These fields are intentionally blank. No hosted link or DOI has been created by this package.
+Technical status: verified local sequential execution for the stated descriptive scope.
+Journal of Business Research publication readiness: not established.
